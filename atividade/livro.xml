@@ -1,0 +1,29 @@
+<bookstore>
+<book category="COOKING">
+<nome lang="en">Everyday Italian</nome>
+<autor>Giada De Laurentiis</autor>
+<ano>2005</ano>
+<preco>30.00</preco>
+</book>
+<book category="CHILDREN">
+<nome lang="en">Harry Potter</nome>
+<autor>J K. Rowling</autor>
+<ano>2005</ano>
+<preco>29.99</preco>
+<chave> sua tia </chave>
+</book>
+<book category="WEB">
+<nome lang="en-us">XQuery Kick Start</nome>
+<autor>James McGovern</autor>
+<ano>2003</ano>
+<preco>49.99</preco>
+<chave> tua mãe </chave>
+</book>
+<book category="WEB">
+<nome lang="en-us">Learning XML</nome>
+<autor>Erik T. Ray</autor>
+<ano>2003</ano>
+<preco>39.95</preco>
+<chave> teu pai </chave>
+</book>
+</bookstore>
